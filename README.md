@@ -1,5 +1,7 @@
-#  Projeto exibição de jogos
+# Projeto exibição de jogos
+
 > Status do projeto: Em desenvolvimento pelos alunos do ifro
+
 Para rodar este projeto em seu computador, é preciso configurar o Bootstrap
 
 
